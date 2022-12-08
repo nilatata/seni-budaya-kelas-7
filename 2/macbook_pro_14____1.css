@@ -1,0 +1,434 @@
+/*
+	@name macbook_pro_14____1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1512px; width: 1512px; height: 2102px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__macbook_pro_14____1 {
+	top: 0px;
+	left: 0px;
+	width: 1512px;
+	height: 2102px;
+	background:rgba(28,28,33,1);
+}
+
+#group_15 {
+	top: 119px;
+	left: 252px;
+	width: 1260px;
+	height: 830px;
+}
+
+#image_11 {
+	top: 166px;
+	left: 0px;
+	width: 356px;
+	height: 180px;
+}
+
+
+#image_12 {
+	top: 166px;
+	left: 397px;
+	width: 318px;
+	height: 180px;
+}
+
+
+#image_13 {
+	top: 170px;
+	left: 740px;
+	width: 313px;
+	height: 180px;
+}
+
+#group_18 {
+	top: 346px;
+	left: 13px;
+	width: 1076px;
+	height: 484px;
+}
+
+#pola_zig_zag {
+	top: 0px;
+	left: 64px;
+	width: 211px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#949495;
+}
+
+
+#dimana_posisi_penari_berselang_seling_entah_dari_posisi_menyerong__membanjar__ataupun_posisi_bersyaf {
+	top: 50px;
+	left: -2px;
+	width: 341px;
+	height: 103px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	text-align: center;
+	color:#949495;
+}
+
+
+#pola_vertikal {
+	top: 4px;
+	left: 442px;
+	width: 211px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#949495;
+}
+
+
+#dimana_para_penari_memposisikan_diri_dalam_satu_garis_lurus_ke_belakang__lebih_pada_berbanjar {
+	top: 50px;
+	left: 376px;
+	width: 341px;
+	height: 103px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	text-align: center;
+	color:#949495;
+}
+
+
+#pola_horizontal {
+	top: 6px;
+	left: 774px;
+	width: 230px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#949495;
+}
+
+
+#pola_horizontal_adalah_posisi_dimana_penari_melebar_dari_ujung_kanan_panggung_menuju_kiri_panggung_atau_bahkan_sebaliknya__lebih_pada_bersyaf {
+	top: 50px;
+	left: 735px;
+	width: 341px;
+	height: 103px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	text-align: center;
+	color:#949495;
+}
+
+
+#pola_diagonal {
+	top: 341px;
+	left: 70px;
+	width: 220px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#949495;
+}
+
+
+#pola_diagonal_adalah_posisi_dimana_penari_membentuk_satu_garis_lurus_secara_serong__yakni_dari_sudut_ke_sudut__pola_lantai_ini_juga_lumayan_sering_dipakai_pada_tari_tari_kreasi {
+	top: 391px;
+	left: 8px;
+	width: 341px;
+	height: 103px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	text-align: center;
+	color:#949495;
+}
+
+
+#pola_v_a {
+	top: 347px;
+	left: 470px;
+	width: 175px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#949495;
+}
+
+
+#pola_v_a_adalah_posisi_dimana_penari_membentuk_huruf_v_a_yakni_satu_orang_menjadi_poin_senter_dari_tari_tersebut__pola_lantai_ini_umum_digunakan_pada_semua_tarian_kreasi__dibanding_tradisi_contoh_jaipong {
+	top: 391px;
+	left: 386px;
+	width: 341px;
+	height: 103px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	text-align: center;
+	color:#949495;
+}
+
+
+#pola_lingkaran {
+	top: 341px;
+	left: 797px;
+	width: 220px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#949495;
+}
+
+
+#pola_lingkaran_adalah_posisi_penari_membentuk_lingkaran_contoh_tari_kecak {
+	top: 391px;
+	left: 745px;
+	width: 341px;
+	height: 103px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	text-align: center;
+	color:#949495;
+}
+
+
+#image_14 {
+	top: 507px;
+	left: 0px;
+	width: 356px;
+	height: 180px;
+}
+
+
+#image_15 {
+	top: 507px;
+	left: 397px;
+	width: 318px;
+	height: 180px;
+}
+
+
+#image_16 {
+	top: 507px;
+	left: 740px;
+	width: 313px;
+	height: 180px;
+}
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 681px;
+	width: 579px;
+	height: 101px;
+}
+
+
+#macam_macam {
+	top: 32px;
+	left: 766px;
+	width: 272px;
+	height: 101.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#rectangle_6 {
+	top: 1076px;
+	left: 140px;
+	width: 1281px;
+	height: 770px;
+	background:rgba(255,255,255,1);
+}
+
+
+#penggambaran {
+	top: 1124px;
+	left: 662px;
+	width: 272px;
+	height: 101.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	color:#1C1C21;
+}
+
+
+#penari {
+	top: 1266px;
+	left: 890px;
+	width: 272px;
+	height: 101.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	color:#1C1C21;
+}
+
+
+#arah_hadap {
+	top: 1473px;
+	left: 1062px;
+	width: 272px;
+	height: 101.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	color:#1C1C21;
+}
+
+
+#batas_panggung {
+	top: 1681px;
+	left: 996px;
+	width: 272px;
+	height: 101.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	color:#1C1C21;
+}
+
+
+#image_21 {
+	top: 1254px;
+	left: 376px;
+	width: 742px;
+	height: 520px;
+}
+
+
+#rectangle_8 {
+	top: 1909px;
+	left: 540px;
+	width: 315px;
+	height: 73px;
+	background:rgba(217,217,217,1);
+}
+
+
+#halaman_selanjutnya {
+	top: 1922px;
+	left: 554px;
+	width: 251px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+#right {
+	top: 1929px;
+	left: 801px;
+	width: 36px;
+	height: 36px;
+}
+
+#vector {
+	top: 2.77px;
+	left: 9.56px;
+	width: 19.13px;
+	height: 30.46px;
+}
+
+#group_24_ek1 {
+	top: 36px;
+	left: 582px;
+	width: 351px;
+	height: 25px;
+}
+
+#home {
+	top: 0px;
+	left: 0px;
+	width: 67px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#materi {
+	top: 0px;
+	left: 111px;
+	width: 67px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	color:#616161;
+}
+
+
+#quiz {
+	top: 0px;
+	left: 200px;
+	width: 67px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	color:#616161;
+}
+
+
+#contact {
+	top: 0px;
+	left: 289px;
+	width: 81px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	color:#616161;
+}
+
+
+
+/* Add your custom CSS here */
